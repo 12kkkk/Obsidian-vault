@@ -1,0 +1,9 @@
+{
+  "canvasSize": 36000,
+  "headLevel": 4,
+  "fontSize": 16,
+  "background": "black",
+  "layout": "mindmap",
+  "layoutDirect": "right",
+  "strokeArray": "yellow"
+}

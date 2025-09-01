@@ -1,0 +1,11 @@
+{
+  "accentColor": "#065b06",
+  "theme": "moonstone",
+  "interfaceFontFamily": "Adobe 宋体 Std",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "nativeMenus": true,
+  "textFontFamily": "Adobe 宋体 Std",
+  "monospaceFontFamily": "",
+  "cssTheme": "Maple"
+}

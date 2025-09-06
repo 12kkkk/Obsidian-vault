@@ -5,5 +5,7 @@
   "defaultViewMode": "source",
   "readableLineLength": true,
   "tabSize": 5,
-  "vimMode": false
+  "vimMode": false,
+  "newLinkFormat": "absolute",
+  "promptDelete": false
 }

@@ -16,30 +16,30 @@ fatal: unable to access 'https://github.com/12kkkk/zero-learning-note-repository
 
 生成 SSH 密钥​​
 在git命令行中输入
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831120036065.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06.png]]
 回车完成配置
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831120121298.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06-9.png]]
 生成密钥文件，文件在
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831120746233.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06-10.png]]
 
 cat 密钥文件地址，查看密钥内容
 
 Github添加密钥
 在 GitHub → ​**​Settings​**​ → ​**​SSH and GPG keys​**​ → ​**​New SSH key​**​，粘贴并保存。
 github登录，来到home页面
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831121008324.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06-11.png]]
 
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831121134587.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06-12.png]]
 提示成功添加密钥
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831121205667.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06-13.png]]
 连接远程仓库
 
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831121347977.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06-14.png]]
 
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831121433049.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06-15.png]]
 测试SSH是否连接
 
-![[IMG-用git将代码上传到GitHub远程仓库遇到的问题and20250831121550118.png]]
+![[attachment file（image、pdf)/IMG-用git将代码上传到GitHub远程仓库遇到的问题-2025.09.06-16.png]]
 
 结果为链接成功
 

@@ -1,13 +1,13 @@
 {
   "attachPath": {
-    "attachmentRoot": "",
-    "saveAttE": "nextToNote",
-    "attachmentPath": "${notepath}/${notename}",
-    "attachFormat": "IMG-${notename}and${date}",
+    "attachmentRoot": "attachment file（image、pdf)",
+    "saveAttE": "inFolderBelow",
+    "attachmentPath": "",
+    "attachFormat": "IMG-${notename}-${date}",
     "type": "GLOBAL",
     "extensionOverride": []
   },
-  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "dateFormat": "YYYY.MM.DD",
   "excludeExtensionPattern": "",
   "autoRenameAttachment": true,
   "excludedPaths": "",

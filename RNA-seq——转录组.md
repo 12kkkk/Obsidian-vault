@@ -1,0 +1,5 @@
+RNA-seq是对单一组织或细胞内所有的RNA进行测序
+主要用于研究某一组织或细胞的基因表达情况，
+下图表示的是RNA-seq的流程
+![[attachment file（image、pdf)/IMG-RNA-seq——转录组-2025.09.06.png]]
+
